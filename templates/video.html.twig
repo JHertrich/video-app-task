@@ -2,9 +2,9 @@
 
 {% block stylesheets %}
    {{ parent() }}
-   <link rel="stylesheet" href="/static/plyr.css" 
+   <link rel="stylesheet" href="/static/plyr/plyr.css" 
 {% endblock %}
-
+   
 
 {% block body %}
    <div class="container py-5">
@@ -22,12 +22,14 @@
 
    {% block javascripts %}
       {{ parent() }}
-      <script src="/static/plyr.js"></script>
+       <script src="/static/plyr/plyr.js"></script>
       <script>
          const player = new Plyr('#player');
-      </script>
+      </script> 
    {% endblock %}
 {% endblock %}
+      
+      
 
 
 
