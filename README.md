@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Symfony based HTML video web app
 
 - Objective: Finish the provided application skeleton to create a *responsive* web application based in the Bootstrap 4 framework and Twig templates. Don't be afraid to ask if you are stuck (instead of banging your head against the wall). Sometimes a small hint will get you far. 
@@ -36,3 +37,6 @@
 - Please send us the link to the solution and a short documentation about what you did to achieve the goal and what where your experiences. Don't be afraid to talk about problems your encountered (we all do in our daily work). 
 
 
+=======
+# video-app-task
+>>>>>>> 37fe05ad4787e71b12e111c876eabbd09c9cfc93
